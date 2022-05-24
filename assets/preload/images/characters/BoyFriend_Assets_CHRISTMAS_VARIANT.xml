@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BoyFriend_Assets_CHRISTMAS_VARIANT.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF NOTE DOWN instance 10000" x="921" y="624" width="400" height="360" frameX="0" frameY="-26" frameWidth="396" frameHeight="381"/>
+	<SubTexture name="BF NOTE DOWN instance 10001" x="1329" y="626" width="380" height="372" frameX="-7" frameY="-11" frameWidth="396" frameHeight="381"/>
+	<SubTexture name="BF NOTE DOWN instance 10002" x="1329" y="626" width="380" height="372" frameX="-7" frameY="-11" frameWidth="396" frameHeight="381"/>
+	<SubTexture name="BF NOTE DOWN instance 10003" x="1715" y="626" width="382" height="376" frameX="-8" frameY="-7" frameWidth="396" frameHeight="381"/>
+	
+	<SubTexture name="BF NOTE RIGHT instance 10000" x="2152" y="1168" width="431" height="408" frameX="-16" frameY="-18" frameWidth="449" frameHeight="411"/>
+	<SubTexture name="BF NOTE LEFT instance 10001" x="0" y="1646" width="397" height="413" frameX="-21" frameY="0" frameWidth="449" frameHeight="411"/>
+	<SubTexture name="BF NOTE LEFT instance 10002" x="0" y="1646" width="397" height="413" frameX="-21" frameY="0" frameWidth="449" frameHeight="411"/>
+	<SubTexture name="BF NOTE LEFT instance 10003" x="400" y="1646" width="387" height="413" frameX="-13" frameY="0" frameWidth="449" frameHeight="411"/>
+	
+	<SubTexture name="BF NOTE RIGHT instance 10001" x="1273" y="1128" width="408" height="416" frameX="-27" frameY="0" frameWidth="421" frameHeight="410"/>
+	<SubTexture name="BF NOTE RIGHT instance 10002" x="1273" y="1128" width="408" height="416" frameX="-27" frameY="0" frameWidth="421" frameHeight="410"/>
+	<SubTexture name="BF NOTE RIGHT instance 10003" x="1687" y="1128" width="409" height="416" frameX="-29" frameY="0" frameWidth="421" frameHeight="410"/>
+	
+	<SubTexture name="BF NOTE UP instance 10000" x="2149" y="556" width="367" height="463" frameX="-7" frameY="0" frameWidth="387" frameHeight="461"/>
+	<SubTexture name="BF NOTE UP instance 10001" x="0" y="1061" width="392" height="447" frameX="0" frameY="-16" frameWidth="387" frameHeight="461"/>
+	<SubTexture name="BF NOTE UP instance 10002" x="0" y="1061" width="392" height="447" frameX="0" frameY="-16" frameWidth="387" frameHeight="461"/>
+	<SubTexture name="BF NOTE UP instance 10003" x="397" y="1064" width="381" height="439" frameX="-2" frameY="-20" frameWidth="387" frameHeight="461"/>
+	
+	<SubTexture name="BF idle dance instance 10000" x="12" y="33" width="411" height="406" frameX="0" frameY="-21" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10001" x="12" y="33" width="411" height="406" frameX="0" frameY="-21" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10002" x="453" y="44" width="413" height="409" frameX="-6" frameY="-13" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10003" x="453" y="44" width="413" height="409" frameX="-6" frameY="-13" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10004" x="891" y="40" width="413" height="415" frameX="-9" frameY="-9" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10005" x="891" y="40" width="413" height="415" frameX="-9" frameY="-9" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10006" x="1351" y="48" width="410" height="415" frameX="-12" frameY="-6" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10007" x="1351" y="48" width="410" height="415" frameX="-12" frameY="-6" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10007" x="1808" y="53" width="413" height="419" frameX="-12" frameY="-6" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10008" x="1808" y="53" width="413" height="419" frameX="-12" frameY="-6" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10007" x="2263" y="65" width="417" height="424" frameX="-12" frameY="-6" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10009" x="2263" y="65" width="417" height="424" frameX="-12" frameY="-6" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10010" x="19" y="546" width="413" height="422" frameX="-15" frameY="-2" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10011" x="19" y="546" width="413" height="422" frameX="-15" frameY="-2" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10012" x="437" y="548" width="412" height="419" frameX="-16" frameY="-1" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10013" x="437" y="548" width="412" height="419" frameX="-16" frameY="-1" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10014" x="437" y="548" width="412" height="419" frameX="-16" frameY="-1" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10015" x="437" y="548" width="412" height="419" frameX="-16" frameY="-1" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10016" x="437" y="548" width="412" height="419" frameX="-16" frameY="-1" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10017" x="437" y="548" width="412" height="419" frameX="-16" frameY="-1" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10018" x="437" y="548" width="412" height="419" frameX="-16" frameY="-1" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10019" x="437" y="548" width="412" height="419" frameX="-16" frameY="-1" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10020" x="437" y="548" width="412" height="419" frameX="-16" frameY="-1" frameWidth="424" frameHeight="418"/>
+	<SubTexture name="BF idle dance instance 10021" x="437" y="548" width="412" height="419" frameX="-16" frameY="-1" frameWidth="424" frameHeight="418"/>
+</TextureAtlas>
